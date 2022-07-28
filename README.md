@@ -1,8 +1,7 @@
 ## Olá, eu sou a Jéssika!
 
 ### :brain: Sobre mim:
-- 📷 Sou **fotógrafa** e **videomaker** desde 2017. 
-- 🎥 Meu trabalho vai da produção de vídeos de endomarketing a campanhas institucionais. Eu faço roteirização, edição de vídeo, design e animação. 
+- 📷 Sou **fotógrafa** e **videomaker** desde 2017. Meu trabalho vai da produção de vídeos de endomarketing a campanhas institucionais. Eu faço roteirização, edição de vídeo, design e animação. 
 - 👩‍💻 Além da área de vídeo, também faço desenvolvimento web, trabalhando principalmente com Typescript, utilizando frameworks como React e Next.JS, e usando Firebase para construção do banco de dados.
 - 📧 jessika.o.ferreira@hotmail.com
 - ✨ Pronouns: ela/dela
@@ -36,7 +35,6 @@
   <img align="center" alt="Jessika-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Jessika-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Jessika-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img aling-"center" alt-"Jessika-Premiere" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-original.svg">
           
 </div>
 
