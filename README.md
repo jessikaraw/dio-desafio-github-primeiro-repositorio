@@ -2,11 +2,11 @@
 
 
 ### :brain: Sobre mim:
-- 📷 Sou **fotógrafa** e **videomaker** desde 2017. 
-- 🎥 Meu trabalho vai da produção de vídeos de endomarketing a campanhas institucionais. Eu faço roteirização, edição de vídeo, design e animação. 
-- 👩‍💻 Além da área de vídeo, também faço desenvolvimento web, trabalhando principalmente com Typescript, utilizando frameworks como React e Next.JS, e usando Firebase para construção do banco de dados.
-- 📧 jessika.o.ferreira@hotmail.com
-- ✨ Pronouns: ela/dela
+📷 Sou **fotógrafa** e **videomaker** desde 2017. 
+🎥 Meu trabalho vai da produção de vídeos de endomarketing a campanhas institucionais. Eu faço roteirização, edição de vídeo, design e animação. 
+👩‍💻 Além da área de vídeo, também faço desenvolvimento web, trabalhando principalmente com Typescript, utilizando frameworks como React e Next.JS, e usando Firebase para construção do banco de dados.
+📧 jessika.o.ferreira@hotmail.com
+✨ Pronouns: ela/dela
 
 
 ### 📚 Habilidades
